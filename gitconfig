@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = michelleknolly@gmail.com
+	name = Michelle Knolly
